@@ -1,2 +1,2 @@
 # teddy-df
-A little library implementing some 'pandas-esque' dataframe functionality.
+A little library implementing some 'pandas-esque' dataframe functionality including reading from csv, creating a train-test split, creating a cross validation split and merging dataframes by row or by column.
